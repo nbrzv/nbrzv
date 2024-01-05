@@ -1,24 +1,16 @@
 # Hi there! <img src="https://raw.githubusercontent.com/nbrzv/nbrzv/main/wave.gif" width="30px">
 
-My name is Pedro Nobre. I'm a Chemical Technologist and enthusiast programmer. I'm from Brazil, living in São Paulo State. 
+My name is Pedro Nobre. I'm currently working on a MSc in Biochemistry at Ribeirão Preto Medical School (University of São Paulo, Brazil). I'm a Chemist and enthusiast programmer. I use my programming skills to enhance my research, mainly with R Programming Language, as it's focused on data analysis. On the other hand, I also code as a hobby, I love Linux and I like to customize my desktop environment (check my QTile WM rice repo), then I code a lot in Python as well.
 
 Connect with me on [![LinkedIn][1.2]][1]
 
-🌱 I’m currently learning NodeJS and ReactJS
+🌱 I’m currently learning R and Bioinformatics in general.
 
-💬 Ask me about Arch Linux, Linux, VisualStudio Code, HTML, CSS and Python. Contact me, I will help if I can.
+💬 Ask me about Arch Linux, Linux, VisualStudio Code, HTML, CSS, Python, R, Bioinformatics and more. Contact me, I will help if I can.
 
-📫 How to reach me: penobre.a4@gmail.com
+📫 How to reach me: pedronobre@usp.br
 
 <!--<img align="center" src="https://github-readme-stats.vercel.app/api/<top-langs>/?username=<nbrzv>&theme=<THEME_NAME>" />-->
-## &#x1f4c8; GitHub Stats
-
-<a href="https://github.com/nbrzv/nbrzv">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nbrzv&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
-<!-- <a href="https://github.com/nbrzv/nbrzv">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nbrzv&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Pedro's GitHub Stats" />
-</a> -->
 
 ## 🔧 Technologies & Tools
 
